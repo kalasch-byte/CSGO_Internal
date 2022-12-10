@@ -255,7 +255,7 @@ void CGui::ConfigTab()
 		menuFadeSpeed.handle(menu.data(), "fade speed", &g_config.m_iFadeSpeed, 1, 14);
 		rainbowMode.handle(menu.data(), "rainbow mode", &g_config.m_bRainbowAccent, "sets the gui forecolor to rainbow");
 		restrictionMode.handle(menu.data(), "restrictions", { "none", "anti-untrusted", "anti-smac" }, &g_config.m_iRestrictionType);
-		watermark.handle(menu.data(), "watermark", &g_config.m_bWatermark, "display the onetap.su trademark in the top right corner");
+		watermark.handle(menu.data(), "watermark", &g_config.m_bWatermark, "display the trademark in the top right corner");
 		unloadHack.handle(menu.data(), "rage quit", "releases the module from memory", [] { g_ctx.bShouldUnload = true; });
 
 		openConfigPath.handle(menu.data(), "open path", "opens the directory which contains configurations", []
