@@ -25,6 +25,11 @@ A partially outdated CS:GO training base / internal for personal use.
 ## Side note
 I was going to update the code and have everything nice and clean, but I don't have much time to do so, and stopped playing CS:GO. Some stuff is unoptimized, but is stable. If you'd like to clean it up, feel free.
 
-# Media
-
+## Media
 <img src="https://i.imgur.com/rGYKXVi.png"/>
+
+## Credits
+- Panguins
+- Phage (ph4ge)
+- llama
+- designer1337 (For some utilities)
