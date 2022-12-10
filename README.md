@@ -14,3 +14,9 @@ A partially outdated CS:GO training base / internal for personal use.
 
 ## How to use
 - Use any injector to load the DLL. It supports ManualMap or LoadLibrary.
+
+## Features
+- Basic, safe to use VMT hooking library. (EasyVMT)
+- Example bunnyhop.
+- Example fog removal by hook.
+- Various CSGO virtual function hooks.
