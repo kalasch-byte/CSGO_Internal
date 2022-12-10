@@ -2,6 +2,15 @@
 A partially outdated CS:GO training base / internal for personal use.
 
 ## Compile modes
--- Dev -> Used for internal testing, but shouldn't be used for official use.
--- Debug -> The mode you want to use for debugging crashes, etc.
--- Release -> The mode you want to compile in for official use.
+- Dev -> Used for internal testing, but shouldn't be used for official use.
+- Debug -> The mode you want to use for debugging crashes, etc.
+- Release -> The mode you want to compile in for official use.
+
+## How to build
+1. Open CSGO_Internal.sln
+2. Select the build type at the top. (Debug, Dev, Release)
+3. Select "Build" and "Build Solution", or, CTRL + SHIFT + B
+4. A "Build" directory will be created. The module is in that directory.
+
+## How to use
+- Use any injector to load the DLL. It supports ManualMap or LoadLibrary.
