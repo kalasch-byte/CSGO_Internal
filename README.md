@@ -28,5 +28,3 @@ I was going to update the code and have everything nice and clean, but I don't h
 # Media
 
 <img src="https://i.imgur.com/rGYKXVi.png"/>
-
-!(image)[https://i.imgur.com/rGYKXVi.png]
